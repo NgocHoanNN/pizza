@@ -1,0 +1,12 @@
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\Dblayer.dll.config
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\Dblayer.dll
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\Dblayer.pdb
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\EntityFramework.dll
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\EntityFramework.xml
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\obj\Debug\Dblayer.csproj.AssemblyReference.cache
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\obj\Debug\Dblayer.csproj.CoreCompileInputs.cache
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\obj\Debug\Dblayer.csproj.Up2Date
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\obj\Debug\Dblayer.dll
+C:\Code\asp\Pizza\Application\PizzaRestaurant\Dblayer\obj\Debug\Dblayer.pdb

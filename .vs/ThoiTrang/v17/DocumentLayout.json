@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\asp\\ThoiTrang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|c:\\code\\asp\\thoitrang\\thoitrang\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|solutionrelative:thoitrang\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|c:\\code\\asp\\thoitrang\\thoitrang\\public\\css\\layoutadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|solutionrelative:thoitrang\\public\\css\\layoutadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|c:\\code\\asp\\thoitrang\\thoitrang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|solutionrelative:thoitrang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|c:\\code\\asp\\thoitrang\\thoitrang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|solutionrelative:thoitrang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|c:\\code\\asp\\thoitrang\\thoitrang\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B86B69-8E1F-4DBF-B973-95A3A830286C}|ThoiTrang\\ThoiTrang.csproj|solutionrelative:thoitrang\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThoiTrang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ThoiTrang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:58:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LayoutAdmin.css",
+              "DocumentMoniker": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Public\\CSS\\LayoutAdmin.css",
+              "RelativeDocumentMoniker": "ThoiTrang\\Public\\CSS\\LayoutAdmin.css",
+              "ToolTip": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Public\\CSS\\LayoutAdmin.css",
+              "RelativeToolTip": "ThoiTrang\\Public\\CSS\\LayoutAdmin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T14:49:49.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "ThoiTrang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "ThoiTrang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAUwJgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:38:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ThoiTrang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ThoiTrang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:37:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "ThoiTrang\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Code\\asp\\ThoiTrang\\ThoiTrang\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "ThoiTrang\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:34:02.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
