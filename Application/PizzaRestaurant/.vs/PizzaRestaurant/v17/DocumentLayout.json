@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\pizzarestaurant\\helperclass\\emailcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|solutionrelative:pizzarestaurant\\helperclass\\emailcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\pizzarestaurant\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|solutionrelative:pizzarestaurant\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A88A6C-225C-444F-AC7D-27D8FF23EB8E}|Dblayer\\Dblayer.csproj|c:\\code\\asp\\pizza\\application\\pizzarestaurant\\dblayer\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A88A6C-225C-444F-AC7D-27D8FF23EB8E}|Dblayer\\Dblayer.csproj|solutionrelative:dblayer\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A88A6C-225C-444F-AC7D-27D8FF23EB8E}|Dblayer\\Dblayer.csproj|c:\\code\\asp\\pizza\\application\\pizzarestaurant\\dblayer\\pizzaresdbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A88A6C-225C-444F-AC7D-27D8FF23EB8E}|Dblayer\\Dblayer.csproj|solutionrelative:dblayer\\pizzaresdbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Models\\FeedBackMV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PizzaRestaurant\\Models\\FeedBackMV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\pizzarestaurant\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|solutionrelative:pizzarestaurant\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\pizzarestaurant\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|solutionrelative:pizzarestaurant\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\pizzarestaurant\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCADFB05-B1C7-4032-9A31-BC1E7201B6D8}|PizzaRestaurant\\PizzaRestaurant.csproj|solutionrelative:pizzarestaurant\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTable.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\Dblayer\\UserTable.cs",
+              "RelativeDocumentMoniker": "Dblayer\\UserTable.cs",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\Dblayer\\UserTable.cs",
+              "RelativeToolTip": "Dblayer\\UserTable.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:02:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaResDbModel.Context.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\Dblayer\\PizzaResDbModel.Context.cs",
+              "RelativeDocumentMoniker": "Dblayer\\PizzaResDbModel.Context.cs",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\Dblayer\\PizzaResDbModel.Context.cs",
+              "RelativeToolTip": "Dblayer\\PizzaResDbModel.Context.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAxwC4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:01:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedBackMV.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Models\\FeedBackMV.cs",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\Models\\FeedBackMV.cs",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Models\\FeedBackMV.cs",
+              "RelativeToolTip": "PizzaRestaurant\\Models\\FeedBackMV.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:41:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailCls.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\HelperClass\\EmailCls.cs",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\HelperClass\\EmailCls.cs",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\HelperClass\\EmailCls.cs",
+              "RelativeToolTip": "PizzaRestaurant\\HelperClass\\EmailCls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:55:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Web.config",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\Web.config",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Web.config",
+              "RelativeToolTip": "PizzaRestaurant\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-22T19:56:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "PizzaRestaurant\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBZwDQAAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T19:51:00.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Views\\User\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\Views\\User\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Views\\User\\ResetPassword.cshtml",
+              "RelativeToolTip": "PizzaRestaurant\\Views\\User\\ResetPassword.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T19:49:34.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PizzaRestaurant\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Code\\asp\\Pizza\\Application\\PizzaRestaurant\\PizzaRestaurant\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PizzaRestaurant\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAkwEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:46:20.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
